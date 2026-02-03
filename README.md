@@ -17,5 +17,6 @@ Looking forward to collaborate on mathematical problems and open-source project 
 # my lastest post
 
 -https://medium.com/@walzsaida/my-data-engineering-journey-c05735ff4b88
+
 my data engineering journey: building an automated data pipeline
 
