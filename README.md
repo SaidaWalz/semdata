@@ -5,9 +5,7 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=SaidaWalz alt=SaidaWalz /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=SaidaWalz&show_icons=true&include_all_commits=true)](https://github.com/SaidaWalz/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaidaWalz&layout=compact)](https://github.com/SaidaWalz/github-readme-stats)
 
 # Things I code with
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
